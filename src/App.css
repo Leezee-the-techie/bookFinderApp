@@ -1,1 +1,28 @@
 
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .book-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .book-item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 200px;
+    text-align: left;
+  }
+  
+  .book-item img {
+    width: 100%;
+  }
+  
